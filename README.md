@@ -1,2 +1,2 @@
 > # 🚧 Development in Progress 🚧
-# chat-simulator-vue
+# stream-chat
